@@ -14,7 +14,7 @@
 The project includes an interactive dashboard for exploring food sales and demand predictions across different categories, time periods, weather conditions, and days of the week.
 
 <p align="center">
-  <img src="mcdonalds-demand-dashboard.png" alt="McDonald's Food Demand Prediction Dashboard" width="100%">
+  <img src="mcdonalds-demand-dashboard.png.png" alt="McDonald's Food Demand Prediction Dashboard" width="100%">
 </p>
 
 
