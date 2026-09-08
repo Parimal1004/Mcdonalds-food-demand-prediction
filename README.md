@@ -9,6 +9,14 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-F9AB00?logo=googlecolab)
 
 ---
+## 📊 Project Dashboard
+
+The project includes an interactive dashboard for exploring food sales and demand predictions across different categories, time periods, weather conditions, and days of the week.
+
+<p align="center">
+  <img src="C:\Users\PARIMAL\OneDrive\Pictures\Screenshots\Screenshot 2026-09-09 002808.png" alt="McDonald's Food Demand Prediction Dashboard" width="100%">
+</p>
+
 
 ## 📌 Project Overview
 
