@@ -14,7 +14,7 @@
 The project includes an interactive dashboard for exploring food sales and demand predictions across different categories, time periods, weather conditions, and days of the week.
 
 <p align="center">
-  <img src="C:\Users\PARIMAL\OneDrive\Pictures\Screenshots\Screenshot 2026-09-09 002808.png" alt="McDonald's Food Demand Prediction Dashboard" width="100%">
+  <img src="mcdonalds-demand-dashboard.png" alt="McDonald's Food Demand Prediction Dashboard" width="100%">
 </p>
 
 
@@ -22,7 +22,7 @@ The project includes an interactive dashboard for exploring food sales and deman
 
 This project focuses on predicting **McDonald's food sales/demand** using machine learning.
 
-The project uses a **synthetic academic dataset** and demonstrates the complete machine learning workflow, including:
+The project uses a **academic dataset** from kaggle and demonstrates the complete machine learning workflow, including:
 
 - 🧹 Data preprocessing
 - 🔍 Exploratory data analysis
@@ -33,7 +33,6 @@ The project uses a **synthetic academic dataset** and demonstrates the complete 
 - ⭐ Feature importance analysis
 - 📊 Demand-category analysis
 
-> ⚠️ **Disclaimer:** This project does **not** use McDonald's real internal, confidential, or proprietary data. The dataset is synthetic and intended for academic purposes.
 
 ---
 
